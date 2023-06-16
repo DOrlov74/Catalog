@@ -13,10 +13,6 @@ Project API is the backend part, and project ClientApp is a Frontend part, which
 
 - .NET Core 3.1
 
-## Published
-
-The site is published at https://gamedb-denis.herokuapp.com/
-
 ## REST API
 
 The REST API to the app is described below.
